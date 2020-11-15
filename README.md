@@ -10,7 +10,7 @@ Nircmd windows application
 https://www.nirsoft.net/utils/nircmd.html
 
 Steps:
-Edit tha bat file to your need and run.
+Edit the .bat file to your need and run.
 
 Pro tip, How I've done: 🤭
 1. In your desktop, right click, create a shortcut,
@@ -21,5 +21,5 @@ Before that, make sure you have downloaded the nircmd application and added it's
 3. You can also change the icon of the shortcut from it's settings, for more fun. (I have that mouse and earth icon)
 
 
-Initially I planned to write a vb script for pressing Windows and Printscreen key to take sc and save it in screenshots folder, but I couldn't find the keycode for start button.
-That'd be better idea I guess, since it won't then need the help of any 3rd party application.
+Initially I planned to write a vb script for pressing Windows and Printscreen key to take sc and save it in screenshots folder, but I couldn't find the keycode for start button.   
+That'd be a better idea I guess, since it won't then need the help of any 3rd party application.
