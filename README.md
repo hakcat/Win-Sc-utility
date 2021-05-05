@@ -32,4 +32,4 @@ That'd be a better idea I guess, since it won't then need the help of any 3rd pa
 
 ## Add on:
 Fire ants destroyed some few important keys on my laptop keyboard. It was also incovenient for me to use on screen keyboard.
-So I used nircmd to create shortcut for those keys and added them to a folder and then to my taskbar. So each time I click that shorctut for a particular key that key which is stored in a text file get copied to my clipbard so that I can paste it.
+So I used nircmd to create shortcut for those keys and added them all to a toolbar folder and then to my taskbar. So each time I click that shorctut for a particular key, that key which is stored in a text file get copied to my clipbard so that I can paste it.
