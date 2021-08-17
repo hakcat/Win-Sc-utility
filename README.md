@@ -19,7 +19,8 @@ Edit the .bat file to your need and run.
 Pro tip, How I've done: 🤭
 1. In your desktop, right click, create a shortcut,
 Paste the code in uploaded script, which is (Edit it as per your requirement):
-Before that, make sure you have downloaded the nircmd application and added it's location to the "PATH" environment variable of your system.
+(Before that, make sure you have downloaded the nircmd application and added it's location to the "PATH" environment variable of your system.)
+Simply paste the below line to the shortcut target field. Note: The location should be valid. If the below folder/drive doesnt exist, then it will NOT create that folder and this will not work. (Looking for a workaround)
 > nircmd.exe savescreenshot "D:\ClassNotes\NoteS~$currdate.MM_dd_yyyy$-~$currtime.HH_mm_ss$.jpg" 
 2. Save and Drag it to your taskbar, So that whenever you need to take sc, just click that button.
 3. You can also change the icon of the shortcut from it's settings, for more fun. (I have that mouse and earth icon)   
